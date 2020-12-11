@@ -4,7 +4,6 @@ public class Above_And_Below{
 		int aboveNum = 0;
 		int belowNum = 0;
 
-
 		for(int arrSingleNum : arrNumbers){
 			if(arrSingleNum > initNumber)
 				aboveNum++;

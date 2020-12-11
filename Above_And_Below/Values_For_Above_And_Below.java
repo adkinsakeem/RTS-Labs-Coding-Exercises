@@ -5,11 +5,6 @@ public class Values_For_Above_And_Below{
 		int[] newArray = getArray();
 		int initNumber = 9;
 		Above_And_Below.Array_2_InitValue_Check(initNumber, newArray);
-
-
-
-
-
 	}
 
 
@@ -23,7 +18,5 @@ public class Values_For_Above_And_Below{
 		// int[] newArray = {6, 8, 3, 9, 5};
 
 		return newArray;
-
-
 	}
 }
