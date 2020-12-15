@@ -1,0 +1,3 @@
+One Change about my Favorite Language
+
+Java is my favorite language and it has been for years. If I could change one thing about Java, it would be how Java libraries and packages are handled. At times it can be difficult searching for the correct library to include or the correct package to use. While working with Node.js, I was directed to the npmjs.com webpage and most of their packages are located on this site and organized. The pages included the last time it was published, the current version, the weekly downloads, and instructions amongst other things. I wish Java had an organized platform that housed information about all libraries and packages, and had a user-friendly interface to navigate to the proper library or package of your choosing.
